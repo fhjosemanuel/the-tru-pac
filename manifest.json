@@ -1,0 +1,17 @@
+{
+    "name": "The True-PAC - Videojuego 2D",
+    "short_name": "The True-PAC",
+    "background_color": "#fff",
+    "display": "fullscreen",
+    "description": "La historia nunca antes contada",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+      {
+        "src": "./img/nacom-red.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
